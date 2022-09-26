@@ -1,3 +1,9 @@
+
+This repo is a clone of: https://github.com/miguelgrinberg/flasky   
+
+Nathan Jones - ECE444 Lab2
+
+======
 Flasky
 ======
 
