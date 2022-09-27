@@ -21,7 +21,7 @@ Nathan Jones
 ![](images/lab2Activity3.png)
 
 # Activity 4
-![](images/lab2Activity41.png)
+![](images/lab2Activity41_.png)
 ![](images/lab2Activity42.png)
 ![](images/lab2Activity43.png)
 ![](images/lab2Activity44.png)
