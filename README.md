@@ -1,17 +1,30 @@
 
-This repo is a clone of: https://github.com/miguelgrinberg/flasky   
-
-Nathan Jones - ECE444 Lab2
-
 ======
 Flasky
 ======
 
-This repository contains the source code examples for the second edition of my O'Reilly book [Flask Web Development](http://www.flaskbook.com).
+# ECE444-F2022-Lab2
+This repo is a clone of: https://github.com/miguelgrinberg/flasky   
+Nathan Jones
 
-The commits and tags in this repository were carefully created to match the sequence in which concepts are presented in the book. Please read the section titled "How to Work with the Example Code" in the book's preface for instructions.
+# Activity 1
+![](images/lab2Activity1.png)
 
-For Readers of the First Edition of the Book
---------------------------------------------
+# Activity 2: 2-1
+![](images/lab2Activity2-1.png)
+[](images/lab2Activity2-1_2.png)
 
-The code examples for the first edition of the book were moved to a different repository: [https://github.com/miguelgrinberg/flasky-first-edition](https://github.com/miguelgrinberg/flasky-first-edition).
+# Activity 2: 2-2
+![](images/lab2Activity2-2.png)
+
+# Activity 3
+![](images/lab2Activity3.png)
+
+# Activity 4
+![](images/lab2Activity41.png)
+[](images/lab2Activity42.png)
+![](images/lab2Activity43.png)
+[](images/lab2Activity44.png)
+
+
+
